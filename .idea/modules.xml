@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/unit_7_assignment_malatuba/unit_7_assignment_malatuba.iml" filepath="$PROJECT_DIR$/unit_7_assignment_malatuba/unit_7_assignment_malatuba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit_7_assignment_malatuba/android/unit_7_assignment_malatuba_android.iml" filepath="$PROJECT_DIR$/unit_7_assignment_malatuba/android/unit_7_assignment_malatuba_android.iml" />
+    </modules>
+  </component>
+</project>
